@@ -42,7 +42,7 @@ Git is a distributed version control system designed to handle everything from s
 2. Update the package list:
    ```sh
    sudo apt update
-  
+   ```
 3. Install Git:
    ```sh
    sudo apt install git
