@@ -34,9 +34,9 @@ Git is a distributed version control system designed to handle everything from s
    ```sh
    /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 3. Install Git using Homebrew:
-  ```sh
-  brew install git
-  ```
+   ```sh
+   brew install git
+   ```
 ### On Linux
 1. Open Terminal
 2. Update the package list:
