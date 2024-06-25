@@ -64,4 +64,9 @@ Git is a distributed version control system designed to handle everything from s
    ```sh
    git init
    ```
+2. Create a repository on GitHub and copy the link of the repository then add this to the local repository of your machine:
+   ```sh
+   git add origin https::github.com/your_github_user_name/your_repository_name
+   ```
+
   
