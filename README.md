@@ -68,5 +68,39 @@ Git is a distributed version control system designed to handle everything from s
    ```sh
    git add origin https::github.com/your_github_user_name/your_repository_name
    ```
+3. Check changes:
+   ```sh
+   git status
+   ```
+4. Moved untracked file to tracked file:
+   1. Add a specific file
+      ```sh
+      git add "file name"
+      ```
+   2. Add all files:
+      ```sh
+      git add .
+      ```
+5. Moved tracked file to stage by commit or saved in local repository:
+   ```sh
+   git commit -m "comments"
+   ```
+6. Push the committed file to GitHub repository:
+   ```sh
+   git push -u origin branch_name
+   ```
+7. Create a new branch:
+   ```sh
+   git checkout -b branch_name
+   ```
+8. Go to the existing branch
+   ```sh
+   git checkout branch_name
+   ```
+9. Clone the repository on local
+   ```sh
+   git clone repository_link
+   ```
+      
 
   
