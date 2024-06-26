@@ -101,6 +101,13 @@ Git is a distributed version control system designed to handle everything from s
    ```sh
    git clone repository_link
    ```
+10. To pull something from branch:
+			```sh
+			git pull origin branch_name
+			```
+			No need to use "origin branch_name" if you are pulling from present branch.
+
+
       
 
   
