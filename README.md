@@ -94,15 +94,19 @@ Git is a distributed version control system designed to handle everything from s
    ```sh
    git checkout -b branch_name
    ```
-8. Go to the existing branch
+8. To check the branches:
+   ```sh
+   git branch
+   ```
+9. Go to the existing branch
    ```sh
    git checkout branch_name
    ```
-9. Clone the repository on local
+10. Clone the repository on local
    ```sh
    git clone repository_link
    ```
-10. To pull something from branch:
+11. To pull something from branch:
     ```sh
     git pull origin branch_name
     ```
