@@ -89,6 +89,7 @@ Git is a distributed version control system designed to handle everything from s
    ```sh
    git push -u origin branch_name
    ```
+   No need to use "-u origin branch_name" if you are pushing into an existing branch of GitHub and it is the present branch of the local machine. But you need to use it when you want to push another branch.
 7. Create a new branch:
    ```sh
    git checkout -b branch_name
