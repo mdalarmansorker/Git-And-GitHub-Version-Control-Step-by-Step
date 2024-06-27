@@ -103,9 +103,9 @@ Git is a distributed version control system designed to handle everything from s
    git checkout branch_name
    ```
 10. Clone the repository on local
-   ```sh
-   git clone repository_link
-   ```
+    ```sh
+    git clone repository_link
+    ```
 11. To pull something from branch:
     ```sh
     git pull origin branch_name
