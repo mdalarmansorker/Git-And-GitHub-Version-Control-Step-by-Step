@@ -112,7 +112,10 @@ Git is a distributed version control system designed to handle everything from s
     ```
     No need to use "origin branch_name" if you are pulling from present branch.
 
-
+12. Create git ignore file by command.
+    ```sh
+    touch .gitignore
+    ```
       
 
   
